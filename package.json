@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@react-navigation/drawer": "^6.5.8",
+    "@react-navigation/material-bottom-tabs": "^6.2.15",
+    "react-native-paper": "^5.4.1",
+    "react-native-responsive-fontsize": "^0.5.1"
+  }
+}
